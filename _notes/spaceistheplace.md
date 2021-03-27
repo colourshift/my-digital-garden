@@ -5,7 +5,7 @@ title: Space Is the Place
 <p class="caption">November 3, 1996<br />
 Austin, TX</p>
 
-<p>Bowery Electric – Empty Words.</p>
+*Bowery Electric – Empty Words*
 <iframe src="https://open.spotify.com/embed/track/330w7iBKrHxlJwx3WMdHVr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <p>It was late autumn 1996 and *Beat* had just come out.  Mikey, he & I were still tight, and we drove to [[Austin]] in his pickup for record binges at all the best [[music]] shops. I was Pavement &amp; Olivia Tremor Control; he was GBV &amp; Flaming Lips&mdash;but you never knew what you'd turn up at Waterloo et al.</p>
