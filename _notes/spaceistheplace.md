@@ -1,4 +1,6 @@
---- title: Space Is the Place -
+---
+title: Space Is the Place
+---
 
 <p class="caption">November 3, 1996</p>
 
